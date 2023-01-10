@@ -3,17 +3,27 @@
     background-color: beige;
     padding: 20px;
     margin: 10px;
+
 }
 
 .info h1{
     font-size: 1.9rem;
 }
 
+
+
 .info p{
-    font-weight: bolder;
-    /*text-decoration: underline;*/
-    border: 1px solid;
-    margin-right: 170px;
-    padding: 5px;
+
+    border: 1px solid ;
+    margin-right: 300px;
+    padding: 8px;
 
 }
+
+.info img {
+    width: 250px;
+    height: 400px;
+
+}
+
+
